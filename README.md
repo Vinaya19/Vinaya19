@@ -1,4 +1,3 @@
-[!MasterHead](https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*2uuz2Ft245QGqDaRhI-XQg.gif)
 <h1 align="center">Hi 👋, I'm Vinaya Bomnale</h1>
 <h3 align="center">I am a 24 year old developer. I am currently pursuing a Master's in Computer Science and I am passionate about creating meaningful products with the use of technology.</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" >
